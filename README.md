@@ -31,3 +31,11 @@
 </div>
 
 ###
+
+
+ ## 🚀 Projects
+- 🚗 Traffic Object Detection using YOLO  
+  https://github.com/noormohmedawad/traffic-object-detection-yolo  
+
+- 🎬 Netflix Recommendation System  
+  https://github.com/noormohmedawad/netflix-recommendation-system
